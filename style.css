@@ -1,3 +1,10 @@
+head {
+  background-color: aliceblue;
+  size: 2em;
+  width: auto;
+  color: red;
+}
 body {
   background-color: #aaa;
+  size: 1em;
 }
